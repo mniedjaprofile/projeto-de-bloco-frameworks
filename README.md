@@ -1,13 +1,12 @@
 # projeto-de-bloco-frameworks
 
 <center>
- <img src="img/framework.png" alt="descrição da imagem"  width="250">
+<img src="img/framework.png" alt="descrição da imagem"  align="center" width="250">
 </center>
 
 <br><br>
-
-<p align="left"> 
-    <h2><b>📚 Repositório para construção do projeto de bloco de Frameworks.</b></h2>
+<h2 align="center"><b>Engenharia de Software - Infnet</b><br><br>
+📚 Repositório para construção do projeto de bloco de Frameworks.</b></h2>
 </p>
 
 <br>
