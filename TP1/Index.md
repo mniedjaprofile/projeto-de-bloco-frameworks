@@ -30,7 +30,7 @@ Procurando resolver problemas como: <br>
 
 * Falta de mecanismo para o gerenciamento de eventos pagos e gratuitos.
 
-<br><br>
+<br>
 
 # 📍 Marcos Principais
 
@@ -66,7 +66,7 @@ Para interações fluídas
 - Indicação clara de estados (offline, carregando, erro);
 - Aderência a padrões de acessibilidade (contrast ratio, focus order, aria labels).
 
-<br><br><br>
+<br><br>
 
 # ⚙️ Funcionalidades Mínimas (MVP)
 
@@ -134,7 +134,7 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 * Jira
 * Notion 
 
-<br><br><br>
+<br><br>
 
 <b>👥 Caracteristicas do time</b><br>
 
@@ -146,6 +146,7 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
     Backlog | To Do (Sprint) | In Progress | In Review | Done.
 
 <br>
+
 <b>🎭 Definição de Papéis</b>
 
 <br>
@@ -166,7 +167,6 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 |E2 – CRUD da Gestão de Eventos     | Criar, editar, listar e excluir eventos.      |       |
 |E3 – Inscrições e Participação       | Implementar filtros dinâmicos (categoria, local, data).      |      |
 
-<br><br><br>
 <br><br><br>
 
 # 📝 User Stories 
@@ -234,6 +234,8 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 * US-013: Como organizador, quero visualizar a lista de inscritos no meu evento
 * US-014: Como organizador, quero exportar a lista de participantes
 
+<br>
+
 # ⏱️ Sprints Planejadas (Roadmap Resumido/Macro)
 
 <b>📦 Release 1.0</b>
@@ -284,7 +286,7 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 |-------------|-------------|-------------|
 | Dashboard de organizador (métricas básicas), polimentos UX, correções, testes end-to-end e preparação para release do MVP.     |
 
-<br><br>
+<br>
 
 #  ⚛️ ReactJS e React Native Frameworks
 
