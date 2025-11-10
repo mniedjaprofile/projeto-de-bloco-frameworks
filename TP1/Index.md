@@ -113,14 +113,14 @@ Sprint Planning, Daily Scrum (15min), Sprint review, Sprint Retrospective, Backl
 
 Critérios de aceitação claros, estimativas e limitações de WIP; integração continua; revisão de deploys frequentes para colher feedback real.
 
-* <b>Definition of Ready (DoR)</b><br>
+* <b>Definição de Pronto (Ready) - DoR</b><br>
  User Story bem escrita e compreensível<br>
  Critérios de aceitação definidos<br>
  Dependências identificadas<br>
  Design/wireframe disponível<br>
  Aceite do PO <br>
 
-* <b>Definition of Done (DoD)</b></br>
+* <b>Definição de Concluído (Done) - DoD</b></br>
   Código desenvolvido e revisado<br>
   Testes unitários implementados<br>
   Testes de integração passando<br>
@@ -324,3 +324,20 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 - Ciclo de desenvolvimento rápido: hot reload, grande comunidade e bibliotecas para autenticação e integração com serviços (Firebase).
 
 - UX consistente: com design system adaptado (tokens de cores/tipografia) possibilita interfaces coerentes entre plataformas.
+
+<br>
+
+#  🚀 **Backlog Futuro – Evolução do Projeto EventUp** 
+
+| **Tema Estratégico** | **Descrição Resumida / Foco de Evolução** |
+|----------------------|--------------------------------------------|
+| 🧭 **DevOps e Entrega Contínua** | Implementar pipelines automatizados de CI/CD, monitoramento de deploys e integração com ferramentas de versionamento para garantir entregas ágeis e seguras. |
+| 📊 **Métricas de Sucesso** | Definir e acompanhar KPIs como taxa de participação em eventos, engajamento dos usuários e tempo médio de uso da plataforma. |
+| 📈 **Métricas do Produto** | Analisar comportamento dos usuários e performance do sistema para direcionar melhorias baseadas em dados (data-driven decisions). |
+
+<br>
+
+| 🧩 **Roadmap de Releases** | **Funcionalidades Planejadas** | **Duração Estimada** |
+|----------------------------|--------------------------------|----------------------|
+| 🔄 **Release 1.1** | Sistema de lembretes, compartilhamento de eventos, favoritos e melhorias de UX. | 4 semanas |
+| ⏳ **Release 1.2** | Sistema de pagamentos, notificações push, dashboard analítico e API pública. | 4 semanas |
