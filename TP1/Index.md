@@ -4,6 +4,8 @@
 <p><b>Prof: </b>Thiago Vieira de Aguiar</p>
 <p><b>Aluno: </b>Mayara Araujo</p>
 <p><b>Disciplina: </b>Projeto de Bloco Framework - TP1</p>
+<p><b>Descrição: </b> Conteúdo autoral conforme análise realizada dos materiais disponiveis de apoio para a atividade.
+<p><b>Ferramentas de apoio: </b>Chat GPT e DeepSeek para refinamentos e modelagem do .md</p>
 <p><a href="https://github.com/mniedjaprofile/projeto-de-bloco-frameworks" target="_blank">Link GitHub</a></p>
 
 
@@ -66,7 +68,7 @@ Para interações fluídas
 - Indicação clara de estados (offline, carregando, erro);
 - Aderência a padrões de acessibilidade (contrast ratio, focus order, aria labels).
 
-<br><br>
+<br>
 
 # ⚙️ Funcionalidades Mínimas (MVP)
 
@@ -134,7 +136,7 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 * Jira
 * Notion 
 
-<br><br>
+<br>
 
 <b>👥 Caracteristicas do time</b><br>
 
@@ -240,51 +242,62 @@ Critérios de aceitação claros, estimativas e limitações de WIP; integraçã
 
 <b>📦 Release 1.0</b>
 
-| 🔄🏆 Sprint 0 (Pré-sprint/1 semana) |  |  |
-|-------------|-------------|-------------|
-|Setup repositório CI/CD básico, ambiente dev, definição de padrões (lint, prettier), roteiros e wireframes iniciais     |
-<br><br>
+| 🔄🏆 Sprint 0 (Pré-sprint/1 semana) |
+|------------------------------------|
+| Setup do repositório, configuração de CI/CD básico, ambiente de desenvolvimento, definição de padrões (lint, prettier), roteiros e wireframes iniciais. |
 
-| 🔄🏆 Sprint 1 (Semanas 1-2) |Objetivo  |  |
-|-------------|-------------|-------------|
-| Fundação     | Sistema básico de autenticação e estrutura do projeto   |
+<br>
 
-<b>Definition of Done</b></br>
+| 🔄🏆 Sprint 1 (Semanas 2-3) | Objetivo |
+|-----------------------------|-----------|
+| **Fundação** | Sistema básico de autenticação e estrutura do projeto |
+
+| 🧩 Task | ⏱️ Estimativa | 👩‍💻 Responsável |
+|----------|----------------|----------------|
+| Configuração do ambiente (Frontend/Backend) | 8h | Dev Team |
+| Modelagem do banco de dados | 6h | Backend |
+| Implementação cadastro de usuários | 13h | Full Stack |
+| Implementação sistema de login | 8h | Full Stack |
+| Layout base da aplicação | 12h | Frontend |
+| Testes unitários básicos | 5h | QA |
+
+<b>Definição de Feito (done)</b></br>
 
  ✅ Código revisado e aprovados<br>
  ✅ Tesets de sucesso<br>
  ✅ Documentação atualizada<br>
  ✅ Deploy em ambiente de desenvolvimento
 
-<br><br> 
+<br>
 
-| 🔄🏆 Sprint 2 (Semanas 3-4) |  |  |
-|-------------|-------------|-------------|
-|Autenticação (registro/login via Firebase ou JWT), modelagem de usuários, UI de perfil.     |
+| 🔄🏆 Sprint 2 (Semanas 4-5) | Objetivo |
+|-----------------------------|-----------|
+| **CRUD de Eventos** | CRUD de eventos (criar/editar/excluir/listar), formulários reutilizáveis, upload de imagem. |
+
+| 🧩 Task | ⏱️ Estimativa | 👩‍💻 Responsável |
+|----------|----------------|----------------|
+| Model Event no backend | 4h | Backend |
+| API CRUD de eventos | 12h | Backend |
+| Interface criação de eventos | 16h | Frontend |
+| Listagem de eventos | 10h | Frontend |
+| Upload de imagens | 8h | Full Stack |
+| Validações e tratamento de erros | 6h | Full Stack |
 
 <br>
 
-| 🔄🏆 Sprint 3 (Semanas 5-6) |  |  |
-|-------------|-------------|-------------|
-|CRUD de eventos (criar/editar/excluir/listar), formulários reutilizáveis, upload de imagem.     |
+| 🔄🏆 Sprint 3 (Semanas 5-6) | Objetivo |
+|-----------------------------|-----------|
+| **Inscrições e Busca** | Implementação do sistema de inscrições e mecanismos de busca e filtros para eventos. |
 
-<br>
+| 🧩 Task | ⏱️ Estimativa | 👩‍💻 Responsável |
+|----------|----------------|----------------|
+| Model Inscrição | 3h | Backend |
+| API de inscrições | 10h | Backend |
+| Interface de inscrição | 8h | Frontend |
+| Sistema de busca e filtros | 12h | Full Stack |
+| Dashboard do usuário | 10h | Frontend |
+| Testes de integração | 8h | QA |
 
-| 🔄🏆 Sprint 4 (Semanas 7-8) |  |  |
-|-------------|-------------|-------------|
-| Busca e filtros dinâmicos; paginação/infinite scroll; testes de usabilidade básicos.     |
-
-<br>
-
-| 🔄🏆 Sprint 5 (Semanas 9-10) |  |  |
-|-------------|-------------|-------------|
-| Inscrições, favoritos, compartilhamento; notificação por e-mail (integração simples).     |
-
-<br>
-
-|🔄🏆  Sprint 5 (Semanas 11-12) |  |  |
-|-------------|-------------|-------------|
-| Dashboard de organizador (métricas básicas), polimentos UX, correções, testes end-to-end e preparação para release do MVP.     |
 
 <br>
 
